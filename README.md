@@ -128,6 +128,15 @@ This project is open-source and free to use.
 **Likhitha**
 🔗 GitHub: https://github.com/Likhitha216
 
+## 📂 Dataset
+
+The dataset is not included in this repository due to size limitations.
+
+🔗 Download Dataset:
+https://drive.google.com/drive/folders/1qQEMFzgZu4PMQ1j4tlMw9PJ5-ltXpeD8?usp=drive_link
+
+After downloading, place the dataset folder inside the project directory:
+
 ---
 
 ⭐ *If you like this project, don't forget to star the repo!* ⭐
